@@ -1,0 +1,4 @@
+table
+clothing
+human hand
+sewing machine
